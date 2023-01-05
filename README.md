@@ -17,3 +17,6 @@ stock market prediction systems proposed in other studies in S&P 500 Index predi
 and individual stock prediction.
 - 選擇原因:
 目前引用次數最高的股票預測的論文。
+
+
+Presentation vedio drive url : https://drive.google.com/file/d/1vKfqwf5zkpDzMZvjRf1hHaCJh1T8fXxG/view?usp=sharing
